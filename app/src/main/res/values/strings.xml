@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="tap_prompt">Tap Me If You Dare!</string>
+    <string name="tap_me">Tap Me!</string>
+</resources>
